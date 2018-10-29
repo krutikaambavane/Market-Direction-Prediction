@@ -1,2 +1,4 @@
 # Market-Direction-Prediction
-Predicting whether the market will go up or down using a single predictor
+Predicted whether the market will go up or down using a single feature
+Used Logistic Regression and QDAD
+Drew conclusion based on accuracy of model and confusion matrix
